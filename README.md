@@ -41,12 +41,12 @@ Run the index.html file
 To track the progress of your project, use the following checklist:
 
 - [x] Define project requirements and objectives.
-- [ ] Design user interface and workflow.
-- [ ] Implement backend functionality for NFT deck validation.
-- [ ] Develop frontend components for user interaction.
-- [ ] Test the application thoroughly for accuracy and usability.
-- [ ] Deploy the application to a web server for public access.
-
+- [x] Design user interface and workflow.
+- [x] Implement functionality for NFT deck validation.
+- [x] Develop frontend components for user interaction.
+- [x] Test the application thoroughly for accuracy and usability.
+- [x] Deploy the application to a web server for public access.
+- [ ] Implement additonal advanced features 
 
 ## Contributors
 
